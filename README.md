@@ -6,13 +6,23 @@
 
 
 <h4 align="center"> 
-	🚀  Treinamento em andamento...  🚀
+	🚀 Repositório que manterá todo o código visto no treinamento Ignite. 🚀
 </h4>
 
 
 <h1 align="center">
   <img alt="Passaporte" title="#Passaporte" src="https://github.com/AndrewReis/ignite/blob/master/assets/Passaporte-react-js.png" />
 </h1>
+
+---
+
+<h1 align="left"> Chapter I </h1>
+<p align="left">
+Foi dada a partida do foguete!
+Aprendemos a configurar o ambiente WEB do zero para trabalhar com a biblioteca React.
+Primeiro aprendemos oque é o React, e apartir disso instalamos o Babel, Webpack, SASS e nosso amado REACT;
+A importância de configurar todo o ambiente sem utilizar o "create-react-app", é sentir que nossa confiança ao criar uma aplicação só aumenta. A sensação é: " abrir o capo do carro, e, entender cada peça. ", Bom pelo menos foi assim que estou me sentindo. Agora é subir para o próximo nível. BORA CODAR!
+</p>
 
 
 <h1 id='tecnologias'> 🤖 Tecnologias </h1>
