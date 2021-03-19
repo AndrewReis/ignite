@@ -18,10 +18,10 @@
 
 <h1 align="left"> Chapter I </h1>
 <p align="left">
-Foi dada a partida do foguete!
+	<p align="left">Foi dada a partida do foguete!</p>
 Aprendemos a configurar o ambiente WEB do zero para trabalhar com a biblioteca React.
 Primeiro aprendemos oque é o React, e apartir disso instalamos o Babel, Webpack, SASS e nosso amado REACT;
-A importância de configurar todo o ambiente sem utilizar o "create-react-app", é sentir que nossa confiança ao criar uma aplicação só aumenta. A sensação é: " abrir o capo do carro, e, entender cada peça. ", Bom pelo menos foi assim que estou me sentindo. Agora é subir para o próximo nível. BORA CODAR!
+A importância de configurar todo o ambiente sem utilizar o "create-react-app", é sentir que nossa confiança ao criar uma aplicação só aumenta. A sensação é: " abrir o capo do carro, e, entender cada peça. ", Bom pelo menos foi assim que estou me sentindo. Agora é subir para o próximo nível. <strong>BORA CODAR!</strong>
 </p>
 
 
